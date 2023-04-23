@@ -1,4 +1,4 @@
-# Inventory_Management_System
+# Inventory Management System
 
 This is a C++ program that implements an inventory management system. It allows users to add, remove, find, update, and view all products in the inventory. Additionally, it also provides functionality to save the inventory to a file and load the inventory from a file.
 
